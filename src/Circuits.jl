@@ -7,7 +7,7 @@ export Series, Parallel
 export Battery, VSource, SinusSource
 
 export impedance
-export voltageDivision, currentDivision, simplify, -->
+export voltageDivision, currentDivision, simplify, (-->)
 export latexstandalone
 
 import Base: show, iterate, length, //
